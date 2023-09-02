@@ -1177,33 +1177,8 @@ ELSE
 ### Conclusion
 In the end, the project turned out well, even though there were some inconveniences and miscommunications. The team started off thinking it wouldn't take long to finish but it ended up taking the full two weeks we were given by higher-ups.
 
-## Credits
 
-### Contributors
 
-<a href="https://github.com/vesk4000/Couriers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=vesk4000/Couriers" height="30" alt="Contributors"/> </a>
-
-[@vesk4000](https://github.com/vesk4000)
-- Managing GitHub repository
-- SQL Compiler and associated windows batch file
-- Add procedures
-- Update procedures
-- Code refactoring
-- README
-
-[@icyDenev](https://github.com/icyDenev)
-- Database Design
-- Populating database with data
-- Delete procedures
-- Queries 6 - 10
-- README
-
-[@GreenUncle](https://github.com/GreenUncle)
-- Database Design
-- Populating database with data
-- Queries 1 - 5
-- Big fixing
-- README
 
 ### External tools and resources
 
