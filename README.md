@@ -4,7 +4,6 @@
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/-MICROSOFT%20SQL%20SEVER-green?style=for-the-badge&logo=microsoftsqlserver)
 ![GitHub top language](https://img.shields.io/github/languages/top/vesk4000/Couriers?style=for-the-badge)
-![License](https://img.shields.io/github/license/vesk4000/Couriers?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/github/vesk4000/Couriers?style=for-the-badge)
 
 <a href="https://github.com/vesk4000/Couriers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=vesk4000/Couriers" height="30" alt="Contributors"/> </a>
