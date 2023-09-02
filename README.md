@@ -2,12 +2,6 @@
 
 # 📦Couriers
 
-![MicrosoftSQLServer](https://img.shields.io/badge/-MICROSOFT%20SQL%20SEVER-green?style=for-the-badge&logo=microsoftsqlserver)
-![GitHub top language](https://img.shields.io/github/languages/top/vesk4000/Couriers?style=for-the-badge)
-![Lines of code](https://img.shields.io/tokei/lines/github/vesk4000/Couriers?style=for-the-badge)
-
-<a href="https://github.com/vesk4000/Couriers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=vesk4000/Couriers" height="30" alt="Contributors"/> </a>
-
 Manage delivery **orders**, **clients**, **couriers**, **recipients**, **addresses** and more.
 
 *A high school database project for **Microsoft SQL Server**, written in **Transact-SQL**.*
@@ -23,8 +17,6 @@ Manage delivery **orders**, **clients**, **couriers**, **recipients**, **address
 [Database Design](#database-design)
 •
 [Development](#development)
-•
-[Credits](#credits)
 
 </div>
 
